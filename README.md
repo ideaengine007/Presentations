@@ -10,3 +10,4 @@ All sorts of media and talk related content.
       - [Awesome OSINT](https://github.com/jivoi/awesome-osint)
       - [OSINT Framework](https://osintframework.com/)
       - [RocketChat IRC of OSINT Folks](https://osint.team/)
+      - [OSINT Resources](https://osint.link/)
